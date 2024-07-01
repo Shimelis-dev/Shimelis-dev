@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shimelis Kassa
 - 👀 I’m interested in Web development, Machine learning and java
-- 🌱 I’m currently learning University Lecturer in Computer Science Department
 - 💞️ I’m looking to collaborate on web apps dev
 - 📫 How to reach me sh_csit@yahoo.com
 
